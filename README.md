@@ -26,7 +26,7 @@ Usage library and skills.
 <br>
 Result
 
-### What items drives the most and least revenue?
+###
 
 
 ### Which time periods have the highest and lowest revenue?
