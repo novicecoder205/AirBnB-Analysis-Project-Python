@@ -12,12 +12,19 @@ Some of the common points of these reform is about:
 5. Reform that aims to improves quality of lifes in neighbourhood effected by noise, tourism pressurement and comunity displacement.
 
 Some of the finers details on why these reform matters include:
-. Housing availabilit + Affordability: To reduces the conversions of long term housing to short term markets.
+
+. Housing availability + Affordability: To reduces the conversions of long term housing to short term markets.
+
 . Tourism balance: Keeping neighborhood livable for residents.
+
 . Safety and standard: Ensuring guest accommodations meet local codes.
+
 . Requirement for permits/registration.
+
 . Night-cap limits on rentals.
+
 . Host residency rules.
+
 . Strict penalties and enforcement. 
 
 
