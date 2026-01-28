@@ -42,11 +42,11 @@ This project aims to compare the analysis results between multiples cities from 
 It's often under that the STR reform hits the West the hardest due to the developed economy and already high rental prices, compare to developing nations and zones, or weaker economic zone that may experiences these reform different.
 
 Comparing data will be from developed cities such as Paris and New Yorks, being seemingly the most affected.
-To Cape Town and Bangkok.
+To Cape Town and Bangkok, where regulation were more relaxes or less of it's were impose. 
 
 # Key Findings:
 <br>
-Result
+Result 
 
 ###
 
