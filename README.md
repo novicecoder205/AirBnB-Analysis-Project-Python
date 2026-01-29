@@ -2,7 +2,7 @@
 
 # Introduction: 
 <br>
-In 2015, there was a global reforms around many part of the worlds to address short term rental apps, websites, like Airbnb to address and in hopes of resolves the competitions between Airbnb rental and long term housing market. 
+During the 2015-2019 , there was a global reforms around many part of the worlds to address short term rental apps, websites, like Airbnb to address and in hopes of resolves the competitions between Airbnb rental and long term housing market. 
 
 Some of the common points of these reform is about:
 1. Setting limits on the amount of city properties can become short term rental.
