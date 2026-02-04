@@ -41,8 +41,12 @@ This project aims to compare the analysis results between multiples cities from 
 
 It's often under that the STR reform hits the West the hardest due to the developed economy and already high rental prices, compare to developing nations and zones, or weaker economic zone that may experiences these reform different.
 
-Comparing data will be from developed cities such as Paris and New Yorks, being seemingly the most affected.
-To Cape Town and Bangkok, where regulation were more relaxes or less of it's were impose. 
+Or at least that is the assumptions and data is waiting to proves or disproves that, data will also shown that even in Developed nations and their cities, different selection of measures would lead to different outcom.e
+
+Because there are too many cities multiples regions of the worlds, three will be selected for Examination:
+1. Paris From France.
+2. Sydney From Australia.
+3. Rio Dejaneiro from Brazil.
 
 # Key Findings:
 <br>
