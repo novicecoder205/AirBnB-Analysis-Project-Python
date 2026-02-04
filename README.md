@@ -50,9 +50,27 @@ Because there are too many cities multiples regions of the worlds, three will be
 
 # Key Findings:
 <br>
-Result 
 
-###
+1. Filter down the data to rows, where the data is only about the three cities aboves, and keep only the columns of "host_since", "neighbourhood", "city", "accommodates" and "price" in the table.
+
+<img width="597" height="182" alt="image" src="https://github.com/user-attachments/assets/7992397e-9b28-4fba-a45e-313c535cd0fe" />
+
+. The total data range is 27.9712 entries in total.
+
+<img width="705" height="417" alt="image" src="https://github.com/user-attachments/assets/3d6ca73a-651c-4597-9e3f-b16328e8203b" />
+
+. The seperation of the columns for the Paris Listing entry which yield in 64.690 entries.
+
+<img width="707" height="415" alt="image" src="https://github.com/user-attachments/assets/52321737-0428-467a-8380-d71cc8ab3251" />
+
+. Meanwhile the Sydney Listing entry yield in 33.630 entries.
+
+<img width="706" height="412" alt="image" src="https://github.com/user-attachments/assets/79dc4b9b-88a9-4a95-965e-3ed11501a7c3" />
+
+. The Rio Dejaneiro Listing have 26.615 entries.
+
+2. Looking for missing values for all listings.
+
 
 
 ### Which time periods have the highest and lowest revenue?
