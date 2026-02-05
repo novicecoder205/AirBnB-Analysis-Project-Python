@@ -130,6 +130,12 @@ Note: Euro as the baseline currency of comparison, but all the price are in loca
 
 #### . Create a listing tables of over_time, which is grouped by the years of host_since column, and calculate a count of rows, representing the total number of new host and average price each years.
 
+# Result:
+<img width="826" height="543" alt="image" src="https://github.com/user-attachments/assets/85e7e09c-4fa3-4fb2-939e-885cd65c0faa" />
+
+. Paris reforms on rental property including AirBnB from 2015 onward result in a decrease in Airbnb prices, then the price increase again in 2018 where reform policies were relax gradually as can be seen on the blue line, meanwhile the yellow line, representing new host increase within those yeah as the price drops allow more peoples renting rental at lower cost.
+
+
 
 
 # Skills Utilized:
