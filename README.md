@@ -1,5 +1,5 @@
 # Project title: "Reform Policies and it's effect AirBnB Listings Analysis."
-
+Analyzing AirBnB Paris Listing data, to find out the factors affecting pricing, whether it's does changes as the results of regulations designed to limit the number of properties listed in Paris.
 # Introduction: 
 <br>
 During the 2015-2019 , there was a global reforms around many part of the worlds to address short term rental apps, websites, like Airbnb to address and in hopes of resolves the competitions between Airbnb rental and long term housing market. 
