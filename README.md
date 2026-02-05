@@ -71,7 +71,20 @@ Because there are too many cities multiples regions of the worlds, three will be
 
 2. Looking for missing values for all listings.
 
+<img width="283" height="225" alt="image" src="https://github.com/user-attachments/assets/556859c2-3171-40d3-a46d-1633b3c5923f" />
 
+<img width="297" height="236" alt="image" src="https://github.com/user-attachments/assets/bfa1a01c-1393-4207-933c-c91b6b88004c" />
+
+<img width="360" height="252" alt="image" src="https://github.com/user-attachments/assets/e21535fe-ae9c-4126-8b7e-f6f7becb4f2e" />
+
+. After removing invalid listings, Paris has 64,628 valid listings. 33 of them are missing host_since information, but all have valid price and guest capacity.
+Paris has 54 invalid listings with zero price and zero guest capacity. 
+
+. Sydney has no such invalid listings.
+After removing invalid listings, Sydney has 33,630 valid listings. 34 listings are missing host_since, while all have valid price and guest capacity.
+
+. After removing invalid listings, Rio has 26,608 valid listings. 24 of them are missing host_since information, but all have valid price and guest capacity.
+Rio has 7 invalid listings with zero price and zero guest capacity.
 
 ### Which time periods have the highest and lowest revenue?
 
