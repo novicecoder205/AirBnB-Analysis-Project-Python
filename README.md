@@ -88,7 +88,7 @@ Rio has 7 invalid listings with zero price and zero guest capacity.
 
 #### 2. Prepare the data (of the three cities) for visualization:
 
-. Creates a listing tables of neighbourhood, which groups each cities with their "neighbourhood" and calculate the mean price for each neighbourhood, sorted from lowest to highest average price.
+#### . Creates a listing tables of neighbourhood, which groups each cities with their "neighbourhood" and calculate the mean price for each neighbourhood, sorted from lowest to highest average price.
 
 Note: Euro as the baseline currency of comparison, but all the price are in local currency, thus prices will be convert to Euro.
 
@@ -117,9 +117,20 @@ Note: Euro as the baseline currency of comparison, but all the price are in loca
 
 #### . Create a listing tables of accomodations, which filtered down to the most expensive neighborhood in Paris, grouped by the 'accommodations' columns and contain the mean price for each value of 'accommodates' sorted from lowest to highest average price.
 
+<img width="389" height="196" alt="image" src="https://github.com/user-attachments/assets/ba40127d-cfa5-423b-aa60-55f91d70cdb9" />
+
+. The basic coded structure to creates the accommodate listing is the following, query neighbourhood were choosen to have a similar values to each other using value count.
+
+<img width="288" height="314" alt="image" src="https://github.com/user-attachments/assets/20e3de1f-1564-4ed2-a21c-b4c98fa35d56" />
+<img width="247" height="264" alt="image" src="https://github.com/user-attachments/assets/b4d62734-29b7-4c07-9b3e-f151930475a4" />
+
+
+. The cheapest listing by accomodations in Paris is, 0, with the price of 0, which just mean it's does not house any one.
+. While the high accomdodations rentals values have higher prices
+
 #### . Create a listing tables of over_time, which is grouped by the years of host_since column, and calculate a count of rows, representing the total number of new host and average price each years.
 
-### Which time periods have the highest and lowest revenue?
+
 
 # Skills Utilized:
 <br>
